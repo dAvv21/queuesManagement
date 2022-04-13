@@ -1,0 +1,5 @@
+Time:34
+Waiting clients: [], 
+Queue 0: closed
+
+Queue 1: closed
